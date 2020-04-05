@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7b0089e-86d5-4465-9ef9-3e3c93dc391f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/fiters.py" beforeDir="false" afterPath="$PROJECT_DIR$/fiters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZrbYYPj1pLz1TJ1Lrgiw9P320E" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,7 +36,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.fiters">
+  <component name="RunManager" selected="Python.Test">
     <configuration name="Package1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,6 +58,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,27 +92,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../imagepro/第一章/chapter1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="cvfunc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="untitled1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cvfunc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Test" />
         <item itemvalue="Python.fiters" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.Package1" />
         <item itemvalue="Python.chapter1" />
-        <item itemvalue="Python.cvfunc" />
       </list>
     </recent_temporary>
   </component>
@@ -182,22 +182,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="902" y="124" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585601587615" />
-    <state width="904" height="207" key="GridCell.Tab.0.bottom" timestamp="1586082252873">
+    <state width="1515" height="258" key="GridCell.Tab.0.bottom" timestamp="1586115635099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="904" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586082252873" />
-    <state width="904" height="207" key="GridCell.Tab.0.center" timestamp="1586082252873">
+    <state width="1515" height="258" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586115635099" />
+    <state width="1515" height="258" key="GridCell.Tab.0.center" timestamp="1586115635099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="904" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586082252873" />
-    <state width="904" height="207" key="GridCell.Tab.0.left" timestamp="1586082252873">
+    <state width="1515" height="258" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586115635099" />
+    <state width="1515" height="258" key="GridCell.Tab.0.left" timestamp="1586115635099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="904" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586082252873" />
-    <state width="904" height="207" key="GridCell.Tab.0.right" timestamp="1586082252873">
+    <state width="1515" height="258" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586115635099" />
+    <state width="1515" height="258" key="GridCell.Tab.0.right" timestamp="1586115635099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="904" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586082252873" />
+    <state width="1515" height="258" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586115635099" />
+    <state width="1515" height="258" key="GridCell.Tab.1.bottom" timestamp="1586115637350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586115637350" />
+    <state width="1515" height="258" key="GridCell.Tab.1.center" timestamp="1586115637350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586115637350" />
+    <state width="1515" height="258" key="GridCell.Tab.1.left" timestamp="1586115637350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586115637350" />
+    <state width="1515" height="258" key="GridCell.Tab.1.right" timestamp="1586115637350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586115637350" />
     <state x="544" y="36" key="SettingsEditor" timestamp="1585601628153">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -210,9 +226,24 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="786" y="223" width="671" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1585601617136" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585773533100">
+    <state x="601" y="110" key="refactoring.ChangeSignatureDialog" timestamp="1586105377883">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585773533100" />
+    <state x="601" y="110" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1586105377883" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586110935830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586110935830" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fiters.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
